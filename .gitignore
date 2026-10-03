@@ -1,0 +1,6 @@
+pycache/
+.venv/
+.env
+*.pyc
+notes.txt
+numbers.txt
